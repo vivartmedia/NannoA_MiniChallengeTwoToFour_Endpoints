@@ -9,9 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NannoA_MiniChallengeTwoToFour_Endpoints
 build_property.RootNamespace = NannoA_MiniChallengeTwoToFour_Endpoints
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\NannoA_MiniChallengeTwoToFour_Endpoints\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\My Lenovo\Desktop\Code Stack\Level_2\week2\Assignment\NannoA_MiniChallengeTwoToFour_Endpoints
+=======
+build_property.ProjectDir = /Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints
+>>>>>>> 4654a621e7c10c50ec373b929b51cb7a2d48f28d
 build_property._RazorSourceGeneratorDebug = 

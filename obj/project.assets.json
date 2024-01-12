@@ -469,11 +469,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\My Lenovo\\.nuget\\packages\\": {}
+=======
+    "/Users/brandon/.nuget/packages/": {}
+>>>>>>> 4654a621e7c10c50ec373b929b51cb7a2d48f28d
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\My Lenovo\\Desktop\\Code Stack\\Level_2\\week2\\Assignment\\NannoA_MiniChallengeTwoToFour_Endpoints\\NannoA_MiniChallengeTwoToFour_Endpoints.csproj",
       "projectName": "NannoA_MiniChallengeTwoToFour_Endpoints",
       "projectPath": "C:\\Users\\My Lenovo\\Desktop\\Code Stack\\Level_2\\week2\\Assignment\\NannoA_MiniChallengeTwoToFour_Endpoints\\NannoA_MiniChallengeTwoToFour_Endpoints.csproj",
@@ -482,6 +487,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\My Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/NannoA_MiniChallengeTwoToFour_Endpoints.csproj",
+      "projectName": "NannoA_MiniChallengeTwoToFour_Endpoints",
+      "projectPath": "/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/NannoA_MiniChallengeTwoToFour_Endpoints.csproj",
+      "packagesPath": "/Users/brandon/.nuget/packages/",
+      "outputPath": "/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/brandon/.nuget/NuGet/NuGet.Config"
+>>>>>>> 4654a621e7c10c50ec373b929b51cb7a2d48f28d
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -533,7 +548,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+>>>>>>> 4654a621e7c10c50ec373b929b51cb7a2d48f28d
       }
     }
   }

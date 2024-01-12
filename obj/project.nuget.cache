@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "H/5uwZTrHCBTeBrQ8U3Y1dEjRA0LvyRU1a0dsVy7MOKymaPfoWNvfOB8Fc+XlfzK1QsnkWLFd2VQgvqtSTU6jQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\My Lenovo\\Desktop\\Code Stack\\Level_2\\week2\\Assignment\\NannoA_MiniChallengeTwoToFour_Endpoints\\NannoA_MiniChallengeTwoToFour_Endpoints.csproj",
@@ -11,6 +12,19 @@
     "C:\\Users\\My Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\My Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\My Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+=======
+  "dgSpecHash": "RBaeQ/XiyfPGdRXlDSlDzWU9OWrobOYh4pdSDKvhvwd0pErjt0DqXMD+GBaiL7UmDnWfwNRrLxpl8MQLDH4usQ==",
+  "success": true,
+  "projectFilePath": "/Users/brandon/Documents/Codestack/peerreviews/NannoA_MiniChallengeTwoToFour_Endpoints/NannoA_MiniChallengeTwoToFour_Endpoints.csproj",
+  "expectedPackageFiles": [
+    "/Users/brandon/.nuget/packages/microsoft.aspnetcore.openapi/7.0.15/microsoft.aspnetcore.openapi.7.0.15.nupkg.sha512",
+    "/Users/brandon/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/brandon/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/brandon/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/brandon/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/brandon/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/brandon/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+>>>>>>> 4654a621e7c10c50ec373b929b51cb7a2d48f28d
   ],
   "logs": []
 }
