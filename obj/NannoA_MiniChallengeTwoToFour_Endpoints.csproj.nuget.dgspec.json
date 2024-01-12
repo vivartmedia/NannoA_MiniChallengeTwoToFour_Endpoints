@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "G:\\CodeStack\\Level 2\\week2\\D2\\NannoA_MiniChallengeTwoToFour_Endpoints\\NannoA_MiniChallengeTwoToFour_Endpoints.csproj": {}
+    "C:\\Users\\My Lenovo\\Desktop\\Code Stack\\Level_2\\week2\\Assignment\\NannoA_MiniChallengeTwoToFour_Endpoints\\NannoA_MiniChallengeTwoToFour_Endpoints.csproj": {}
   },
   "projects": {
-    "G:\\CodeStack\\Level 2\\week2\\D2\\NannoA_MiniChallengeTwoToFour_Endpoints\\NannoA_MiniChallengeTwoToFour_Endpoints.csproj": {
+    "C:\\Users\\My Lenovo\\Desktop\\Code Stack\\Level_2\\week2\\Assignment\\NannoA_MiniChallengeTwoToFour_Endpoints\\NannoA_MiniChallengeTwoToFour_Endpoints.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\CodeStack\\Level 2\\week2\\D2\\NannoA_MiniChallengeTwoToFour_Endpoints\\NannoA_MiniChallengeTwoToFour_Endpoints.csproj",
+        "projectUniqueName": "C:\\Users\\My Lenovo\\Desktop\\Code Stack\\Level_2\\week2\\Assignment\\NannoA_MiniChallengeTwoToFour_Endpoints\\NannoA_MiniChallengeTwoToFour_Endpoints.csproj",
         "projectName": "NannoA_MiniChallengeTwoToFour_Endpoints",
-        "projectPath": "G:\\CodeStack\\Level 2\\week2\\D2\\NannoA_MiniChallengeTwoToFour_Endpoints\\NannoA_MiniChallengeTwoToFour_Endpoints.csproj",
-        "packagesPath": "C:\\Users\\nanno\\.nuget\\packages\\",
-        "outputPath": "G:\\CodeStack\\Level 2\\week2\\D2\\NannoA_MiniChallengeTwoToFour_Endpoints\\obj\\",
+        "projectPath": "C:\\Users\\My Lenovo\\Desktop\\Code Stack\\Level_2\\week2\\Assignment\\NannoA_MiniChallengeTwoToFour_Endpoints\\NannoA_MiniChallengeTwoToFour_Endpoints.csproj",
+        "packagesPath": "C:\\Users\\My Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\My Lenovo\\Desktop\\Code Stack\\Level_2\\week2\\Assignment\\NannoA_MiniChallengeTwoToFour_Endpoints\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nanno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\My Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
