@@ -1,12 +1,6 @@
-D1. today we are learning about controllers and routes
-
-we are going to start by creating a controller with routes that allow you to:
-    1.  retrieves a list of students
-    2. add a student
-    3. deletes a student
-    4. edit a student
-
-
-    Give our endpoints different routes
-
-    pass data through routes
+Name: Ashur
+Date: 1/11/2024
+Lab Name: MiniChallengeTwoToFour - Endpoints
+Brief Description: Creating 3 controllers, interfaces, and Services to perform: #1- Add 2 numbers, #2- ask 2 questions (name, what time woke up), and greater than or less than. 
+Peer Reviewer: 
+Peer Review Comments:  
