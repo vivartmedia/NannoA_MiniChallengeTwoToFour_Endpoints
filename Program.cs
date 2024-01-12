@@ -1,4 +1,5 @@
 using NannoA_MiniChallengeTwoToFour_Endpoints.Services.AddService;
+using NannoA_MiniChallengeTwoToFour_Endpoints.Services.CompNumService;
 using NannoA_MiniChallengeTwoToFour_Endpoints.Services.TwoQuestionService;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IAddService, AddService>();
 builder.Services.AddScoped<ITwoQuestionService, TwoQuestionService>();
+builder.Services.AddScoped<ICompNumService, CompNumService>();
 
 var app = builder.Build();
 

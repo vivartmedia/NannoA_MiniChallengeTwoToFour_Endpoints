@@ -6,11 +6,11 @@ using NannoA_MiniChallengeTwoToFour_Endpoints.Services.AddService;
 namespace NannoA_MiniChallengeTwoToFour_Endpoints.Controllers;
 [ApiController]
 [Route("[controller]")]
-public class AdditionController : ControllerBase
+public class Add2NumbersController : ControllerBase
 {
     private readonly IAddService _addService;
 
-    public AdditionController(IAddService addService)
+    public Add2NumbersController(IAddService addService)
     {
         _addService = addService;
     }

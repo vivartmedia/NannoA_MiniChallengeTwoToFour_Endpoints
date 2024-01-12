@@ -6,11 +6,11 @@ namespace NannoA_MiniChallengeTwoToFour_Endpoints.Controllers;
 
 [ApiController]
 [Route("[controller]")]
-public class TwoQuestionController : Controller
+public class TimeYouWokeUpController : Controller
 {
     private readonly ITwoQuestionService _twoQuestionService;
 
-    public TwoQuestionController(ITwoQuestionService twoQuestionService)
+    public TimeYouWokeUpController(ITwoQuestionService twoQuestionService)
     {
         _twoQuestionService = twoQuestionService;
     }
